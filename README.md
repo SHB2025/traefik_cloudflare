@@ -9,11 +9,13 @@
     1. For proper functioning, the script must be run in the user folder. E.g. /home/user1/traefik_cloudflare.sh
     2. Set Cloudflare SSL/TLS to FULL (Strict)
 
-wget https://raw.githubusercontent.com/SHB2025/traefik_cloudflare/refs/heads/main/traefik_cloudflare.sh
+# Koraci za preuzimanje i izvršavanje skripte (Steps to download and run the script):
 
-chmod +x traefik_cloudflare.sh
+    wget https://raw.githubusercontent.com/SHB2025/traefik_cloudflare/refs/heads/main/traefik_cloudflare.sh
 
-sudo ./traefik_cloudflare.sh
+    chmod +x traefik_cloudflare.sh
+
+    sudo ./traefik_cloudflare.sh
 
 
 
