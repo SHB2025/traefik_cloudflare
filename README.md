@@ -7,7 +7,9 @@
 
 
 wget https://raw.githubusercontent.com/SHB2025/traefik_cloudflare/refs/heads/main/traefik_cloudflare.sh
+
 chmod +x traefik_cloudflare.sh
+
 sudo ./traefik_cloudflare.sh
 
 🚀 Automatizirana bash skripta za brzo postavljanje sigurnog Traefik reverse proxy-ja
