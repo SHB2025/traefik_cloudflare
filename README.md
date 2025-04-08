@@ -2,7 +2,7 @@
 
 📥 Kako preuzeti i pokrenuti skriptu / How to download and run the script
 
-# VAZNO: Za ispravno funkcionisanje skripta mora biti pokrenuta u korisničkom (user) folderu. Npr. /home/korisnik1/traefik_cloudflare.sh
+# VAŽNO: Za ispravno funkcionisanje skripta mora biti pokrenuta u korisničkom (user) folderu. Npr. /home/korisnik1/traefik_cloudflare.sh
 # IMPORTANT: For proper functioning, the script must be run in the user folder. E.g. /home/user1/traefik_cloudflare.sh
 
 
