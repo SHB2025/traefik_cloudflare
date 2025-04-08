@@ -15,7 +15,8 @@ sudo ./traefik_cloudflare.sh
 
 
 🚀 Automatizirana bash skripta za brzo postavljanje sigurnog Traefik reverse proxy-ja
-🇧🇦 Opis (Bosanski):
+
+Opis :
 
 Ova bash skripta omogućava jednostavno i automatizirano postavljanje Traefik reverse proxy-ja sa sljedećim funkcionalnostima:
 
