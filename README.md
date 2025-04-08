@@ -12,6 +12,8 @@ chmod +x traefik_cloudflare.sh
 
 sudo ./traefik_cloudflare.sh
 
+
+
 🚀 Automatizirana bash skripta za brzo postavljanje sigurnog Traefik reverse proxy-ja
 🇧🇦 Opis (Bosanski):
 
