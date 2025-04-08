@@ -49,7 +49,7 @@ This bash script allows you to quickly and securely set up a Traefik reverse pro
 
 Full Cloudflare DNS API support via CLOUDFLARE_API_TOKEN
 
-Automated Let's Encrypt SSL certificate generation
+Automated Let's Encrypt and Cloudflare SSL certificate generation
 
 HTTP/3 support, HTTP to HTTPS redirect
 
