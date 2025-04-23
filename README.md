@@ -5,9 +5,11 @@
 # VAŽNO: 
     1. Za ispravno funkcionisanje skripta mora biti pokrenuta u korisničkom (user) folderu. Npr. /home/korisnik1/traefik_cloudflare.sh
     2. Cloudflare SSL/TLS podesite na FULL (Strict)
+    3. Kreirajte A ili CNAME rekord za traefik (traefik.vašadomena.com)
 # IMPORTANT: 
     1. For proper functioning, the script must be run in the user folder. E.g. /home/user1/traefik_cloudflare.sh
     2. Set Cloudflare SSL/TLS to FULL (Strict)
+    3. Create an A or CNAME record for traefik (traefik.yourdomain.com)
 
 # Koraci za preuzimanje i izvršavanje skripte (Steps to download and run the script):
 
