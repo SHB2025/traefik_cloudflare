@@ -37,8 +37,6 @@ Zaštićeni pristup Traefik dashboardu putem osnovne autentifikacije (Basic Auth
 
 Automatsko kreiranje .env, .traefikpasswd, docker-compose.yml i tls.yml fajlova
 
-Osigurana konfiguracija sa opcijama kao što su HSTS, Rate limiting, Gzip kompresija (opcionalno)
-
 🧩 Pogodno za:
 Samostalne servere (npr. Hetzner, DigitalOcean, Proxmox VM)
 
@@ -58,8 +56,6 @@ HTTP/3 support, HTTP to HTTPS redirect
 Secured access to Traefik dashboard using Basic Auth
 
 Automatic generation of .env, .traefikpasswd, docker-compose.yml, and tls.yml
-
-Hardened security config with options like HSTS, rate limiting, gzip compression (optional)
 
 🧩 Perfect for:
 Self-hosted environments (Hetzner, DigitalOcean, Proxmox VMs, etc.)
