@@ -262,7 +262,7 @@ fi
 # Ask user if Traefik should be started automatically
 # Pita korisnika da li želi automatski pokrenuti Traefik
 read -p "Do you want to automatically start Traefik? (Y/N)/Želite li automatski pokrenuti Traefik? (Y/N): " AUTOMATIC_START
-if [ "$AUTOMATIC_START" == "Y" ]; then
+if [[ "$AUTOMATIC_START" == "y" || "$AUTOMATIC_START" == "Y" ]]; then
   echo "Starting Traefik..."
   echo "Početak Traefik..."
   cd traefik
