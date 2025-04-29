@@ -13,9 +13,9 @@
 
 # Koraci za preuzimanje i izvršavanje skripte (Steps to download and run the script):
 
-    wget https://raw.githubusercontent.com/SHB2025/traefik_cloudflare/refs/heads/main/traefik_cloudflare.sh
+    sudo wget https://raw.githubusercontent.com/SHB2025/traefik_cloudflare/refs/heads/main/traefik_cloudflare.sh
 
-    chmod +x traefik_cloudflare.sh
+    sudo chmod +x traefik_cloudflare.sh
 
     sudo ./traefik_cloudflare.sh
 
