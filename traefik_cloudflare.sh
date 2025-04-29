@@ -150,7 +150,7 @@ networks:
 services:
   traefik:
     container_name: traefik
-    image: traefik:v3.3.3
+    image: traefik:latest
     restart: unless-stopped
 
     command:
