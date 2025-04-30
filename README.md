@@ -2,7 +2,7 @@
 
 📥 Kako preuzeti i pokrenuti skriptu / How to download and run the script
 
-# Video: https://youtu.be/gz-QbnBalno
+Video: https://youtu.be/gz-QbnBalno
 
 # VAŽNO: 
     1. Za ispravno funkcionisanje skripta mora biti pokrenuta u korisničkom (user) folderu. Npr. /home/korisnik1/traefik_cloudflare.sh
